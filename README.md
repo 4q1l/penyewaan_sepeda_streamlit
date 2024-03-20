@@ -3,8 +3,6 @@
 
 This project represents the culmination of my journey through the "Belajar Analisis Data Dengan Python" course on Dicoding, where I've delved into the analysis and visualization of the bike sharing dataset. The accompanying notebook details my process, covering everything from Data Wrangling to Exploratory Data Analysis and Visualization. I also deploy this app in [here](https://penyewaansepedaapp.streamlit.app/).
 
-In addition to the notebook, I've also developed a streamlined dashboard using Streamlit. You can access the dashboard by clicking the link provided in the right sidebar or directly here.
-
 ## 1. File Structures
 ```
 .
