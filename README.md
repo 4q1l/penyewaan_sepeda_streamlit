@@ -18,6 +18,7 @@ This project represents the culmination of my journey through the "Belajar Anali
 |   └── SS3.png
 ├── README.md
 ├── notebook.ipynb
+├── url.txt
 └── requirements.txt
 ```
 
